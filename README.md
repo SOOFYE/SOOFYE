@@ -3,15 +3,6 @@
 ### Full Stack Software Engineer | Backend Architect
 I am a Full Stack Developer dedicated to bridging the gap between intuitive user interfaces and robust backend logic to create seamless, production-ready applications. My approach is driven by a deep focus on **system architecture** and **design patterns**, ensuring that every solution is not just functional, but engineered for long-term scalability and high-performance reliability.
 
----
-
-### 🛠️ Core Expertise & Focus
-* 🏗️ **Architecture:** Modular monoliths, event-driven systems, and scalable API design.
-* 🚀 **Full Stack:** Bridging Java/Node.js backends with high-performance React frontends.
-* 🛡️ **Reliability:** Production-grade authentication and resilient system internals.
-* 🤝 **Collaboration:** Open to projects involving complex backend ecosystems and system design.
-
----
 
 ### 💻 Tech Stack & Skills
 
